@@ -1,0 +1,12 @@
+.{
+    .name = .neurodive,
+    .version = "0.0.0",
+    .fingerprint = 0xbe8488c1e8b9c4af,
+    .minimum_zig_version = "0.15.2",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
